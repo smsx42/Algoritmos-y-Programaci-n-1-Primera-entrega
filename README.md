@@ -1,3 +1,3 @@
 # Algoritmos-y-Programacion-2-Primera-entrega
 
-En esta entrga se busca empezar a familiarizarse con en la creacion de proyectos mas grandes, con la utilizacion de  multiples metodos y funcionalidades, en donde se pretender aplicar las buenas practicas, flujos de control, sintais del lenguaje C, manejo de archivos.h, Tipo de dato absracto es un forma mas basica(struct) y punteros.
+En esta entrega se busca empezar a familiarizarse con en la creación de proyectos más grandes, con la utilización de múltiples métodos y funcionalidades, en donde se pretender aplicar las buenas practicas, flujos de control, sintaxis del lenguaje C, manejo de archivos.h y archivos.cpp, Tipo de dato abstracto es un forma más básica (structs) y punteros.
